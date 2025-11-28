@@ -107,7 +107,7 @@ int plotpoints(int xcenter,int ycenter,int x,int y)
 
 **Output :**
 
-![Screenshot (10)](https://github.com/user-attachments/assets/be13350a-b18f-4dcc-908f-8dd5f028105d)
+<img width="591" height="482" alt="image" src="https://github.com/user-attachments/assets/b46c8cc3-0b17-4357-9d64-481f7edba4af" />
 
 **Result :**
 
